@@ -19,6 +19,6 @@ CREATE TABLE Hotel_Facility (
 );
 
 INSERT INTO Hotel_Facility(HotelFacility_No, Facility_No, Hotel_No)
-VALUES(1,1,3)
+VALUES(1,1,1)
 
 
